@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Link to the website
+My CV
+Other pertinent info
